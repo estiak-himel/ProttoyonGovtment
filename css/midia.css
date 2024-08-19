@@ -1,0 +1,83 @@
+/* small devices (portrait phones, less than 576px)  */
+@media (max-width: 575.98px) { 
+
+    .navbar-toggler {
+        color: rgb(60, 72, 145);
+        font-size:21px;
+        font-weight: 500;
+        top: -100px;
+        right: 40px;
+        position: absolute;
+      
+    }
+
+    .navbar-nav {
+        background: #db644e;
+        border-radius: 10px;
+        text-align: center;
+    }
+   .nav1p {
+        display: none;
+      }
+
+      .nav1left {
+        gap: 16px;
+      }
+
+      .navleftA2 {
+        padding: 20px 21px;
+        font-weight: 500;
+        font-size: 13px;
+    }
+  
+    .imgess {
+      height: 130px;
+      width: 131px;
+    }
+    .homeicon img {
+      margin-left: 20px;
+    border: 1px solid #af1e1e;
+    padding: 9px 7px;
+    }
+
+    .homeicon{
+      gap: 50px;
+    }
+    .cityA a {
+      background: #643aad;
+      padding: 9px 10px;
+      border-radius: 12px;
+      color: wheat;
+      font-size: 15px;
+    }
+    .karjaloyabedon h3 {
+      
+      font-size: 16px;
+      
+    }
+    .sliderPart {
+      margin-top: 13px;
+    }
+
+
+
+/* dropdown menu  */
+.dropdown-content {
+  width: 35  0px;
+}
+
+/* dropdown menu  */
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
